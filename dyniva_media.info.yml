@@ -1,7 +1,7 @@
 name: 'Dyniva Media'
 description: 'Dyniva Media provides modules and configuration for great media authoring experiences.'
 type: module
-core: 8.x
+core_version_requirement: ^8.8 || ^9
 package: Dyniva
 dependencies:
   - field
